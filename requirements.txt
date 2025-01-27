@@ -1,0 +1,6 @@
+flask
+google-cloud-aiplatform
+google-cloud-discoveryengine
+langchain-google-vertexai
+langchain-google-community
+python-dotenv
